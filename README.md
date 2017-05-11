@@ -15,10 +15,12 @@ Desker is a continuous work-in-progress which I will update as I discover useful
 ### Future Features
 
 I am looking forward to adding in some functionality from backlight:
+
 - Crossfading
 - IR remote control
 
 There are also tons of new features I may add:
+
 - White colour temperature varying throughout day/night (I have a DS3231 just for this!).
 - Behind-monitor light based on screen content.
 
