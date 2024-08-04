@@ -1,5 +1,8 @@
 # Desker
 
+> [!IMPORTANT]
+> In the years since this repository was updated, I have moved to [WLED](https://kno.wled.ge/) and [ESPHome](https://esphome.io/) for my LED strip needs. This repo remains as an archive.
+
 *Controlling desk lighting with Arduino*
 
 In April 2017, I puchased some SK6812 individually-addressable LED strips. After cutting and soldering them to size, I fastened them at various strategic locations around my desk: beneath speakers, beneath, monitors, and behind monitors. With [backlight][] controlling my existing 12V strip behind my desk, I decided I needed a new, simpler solution.
